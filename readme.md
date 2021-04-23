@@ -1,0 +1,4 @@
+# Scala tour
+
+Hello Scala!
+
